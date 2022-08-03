@@ -1,0 +1,25 @@
+<annotation>
+	<folder>Data</folder>
+	<filename>6962.jpg</filename>
+	<path>/home/sachin/datascience/RetinanetTutorial/PlumsVOC/JPEGImages/6962.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Foraging</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>19</ymin>
+			<xmax>484</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>
